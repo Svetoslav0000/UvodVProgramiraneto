@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1209-6\Desktop\PETYR\UvodVProgramiraneto\Zadacha2\bin\Debug\Zadacha2.exe.config
+C:\Users\STUDENTS-1209-6\Desktop\PETYR\UvodVProgramiraneto\Zadacha2\bin\Debug\Zadacha2.exe
+C:\Users\STUDENTS-1209-6\Desktop\PETYR\UvodVProgramiraneto\Zadacha2\bin\Debug\Zadacha2.pdb
+C:\Users\STUDENTS-1209-6\Desktop\PETYR\UvodVProgramiraneto\Zadacha2\obj\Debug\Zadacha2.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1209-6\Desktop\PETYR\UvodVProgramiraneto\Zadacha2\obj\Debug\Zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1209-6\Desktop\PETYR\UvodVProgramiraneto\Zadacha2\obj\Debug\Zadacha2.exe
+C:\Users\STUDENTS-1209-6\Desktop\PETYR\UvodVProgramiraneto\Zadacha2\obj\Debug\Zadacha2.pdb
